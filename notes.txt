@@ -1,0 +1,20 @@
+Swapping Cases can be done by:
+swapcase()
+
+Joining things from list:
+"".join(a) OR " ".join(a)
+
+Formatting a string :
+print "Hello {0} {1}! You just delved into python.".format(raw_input(), raw_input())
+
+If you want to change immutable things.. put them in list and change and concatenate back
+
+str.isalnum()
+This method checks if all the characters of a string are alphanumeric (a-z, A-Z and 0-9).
+str.isalpha()
+This method checks if all the characters of a string are alphabetical (a-z and A-Z).
+str.isdigit()
+This method checks if all the characters of a string are digits (0-9).
+
+Capitalise:
+use x.capitalise() to cap it
